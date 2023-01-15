@@ -12,13 +12,13 @@
 /dataSources/
 /dataSources.local.xml
 # My ignores
+/Library/
+/Logs/
 *.meta
-/Library
-/Logs
-/obj
-/Packages
-/ProjectSettings
-/Temp
-/UserSettings
-*.csproj
-*.sln
+/obj/
+/Packages/
+/ProjectSettings/
+/Temp/
+/UserSettings/
+/*.csproj
+/*.sln
