@@ -14,10 +14,7 @@
 # My ignores
 /Library/
 /Logs/
-*.meta
 /obj/
-/Packages/
-/ProjectSettings/
 /Temp/
 /UserSettings/
 /*.csproj
